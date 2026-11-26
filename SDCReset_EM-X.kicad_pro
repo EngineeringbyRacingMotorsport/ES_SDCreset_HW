@@ -508,7 +508,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SDCReset_2.0.kicad_pro",
+    "filename": "SDCReset_EM-X.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -699,8 +699,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "SDCReset_2.0.kicad_sch",
-        "name": "SDCReset_2.0",
+        "filename": "SDCReset_EM-X.kicad_sch",
+        "name": "SDCReset_EM-X",
         "uuid": "e7d7fa8f-9f95-481a-ad81-8c6651d5b14d"
       }
     ],
